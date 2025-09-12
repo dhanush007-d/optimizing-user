@@ -5,4 +5,4 @@ This repository contains:
 - 🎥 Demo video showing the implementation steps
 
 ## Video Demo
-[Click here to watch the demo](https://github.com/your-username/servicenow-project-management/blob/main/demo.mp4)
+[Click here to watch the demo](https://github.com/dhanush007-d/optimizing-user/blob/main/main.mp4)
