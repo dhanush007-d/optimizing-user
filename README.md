@@ -10,4 +10,4 @@ This repository contains:
 [Click here to view the document](https://github.com/dhanush007-d/optimizing-user/blob/main/Optimizing%20User.docx)
 
 ## Video Demo
-[Click here to watch the demo](https://github.com/dhanush007-d/optimizing-user/blob/main/main.mp4)
+[Click here to watch the demo](https://drive.google.com/file/d/19HoxvK5BsGlxfjr0DJRbZACTs0BdjDOa/view?usp=drivesdk)
